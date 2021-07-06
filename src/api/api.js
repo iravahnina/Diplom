@@ -1,7 +1,7 @@
 import * as axios from 'axios';
 
 const instance = axios.create({
-	baseURL: 'https://netology-trainbooking.herokuapp.com/'
+	baseURL: 'https://fe-diplom.herokuapp.com/ '
 });
 
 export const api = {
